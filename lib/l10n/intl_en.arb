@@ -1,0 +1,28 @@
+{
+  "home": "home",
+  "video": "video",
+  "find": "find",
+  "mine": "mine",
+  "news": "news",
+  "recommend": "recommend",
+  "memberCenter": "member center",
+  "theme": "Theme",
+  "system": "System",
+  "light": "Light",
+  "Dark": "Dark",
+  "pullToRefresh": "Pull to refresh",
+  "releaseReady": "Release ready",
+  "refreshing": "refreshing...",
+  "succeeded": "succeeded",
+  "noMore": "No more",
+  "failed": "Failed",
+  "lastUpdatedAt": "Last updated at %T",
+  "pullToLoad": "Pull to load",
+  "loading": "Loading...",
+  "style": "{section, select, material {material} materialHc {materialHc} blue {blue} indigo {indigo} hippieBlue {hippieBlue} aquaBlue {aquaBlue} brandBlue {brandBlue} deepBlue {deepBlue} sakura {sakura} mandyRed {mandyRed} red {red} redWine {redWine} purpleBrown {purpleBrown} green {green} money {money} jungle {jungle} greyLaw {greyLaw} wasabi {wasabi} gold {gold} mango {mango} amber {amber} vesuviusBurn {vesuviusBurn} deepPurple {deepPurple} ebonyClay {ebonyClay} barossa {barossa} shark {shark} bigStone {bigStone} damask {damask} bahamaBlue {bahamaBlue} mallardGreen {mallardGreen} espresso {espresso} outerSpace {outerSpace} blueWhale {blueWhale} sanJuanBlue {sanJuanBlue} rosewood {rosewood} blumineBlue {blumineBlue} flutterDash {flutterDash} materialBaseline {materialBaseline} verdunHemlock {verdunHemlock} dellGenoa {dellGenoa} redM3 {redM3} pinkM3 {pinkM3} purpleM3 {purpleM3} indigoM3 {indigoM3} blueM3 {blueM3} cyanM3 {cyanM3} tealM3 {tealM3} greenM3 {greenM3} limeM3 {limeM3} yellowM3 {yellowM3} orangeM3 {orangeM3} deepOrangeM3 {deepOrangeM3} other {Section}}",
+  "@style": {
+    "placeholders": {
+      "section": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "home": "首页",
+  "video": "视频",
+  "find": "发现",
+  "mine": "我的",
+  "news": "万象",
+  "recommend": "推荐",
+  "memberCenter": "会员中心",
+  "theme": "主题",
+  "system": "系统",
+  "light": "明亮",
+  "Dark": "暗黑",
+  "pullToRefresh": "下拉刷新",
+  "releaseReady": "释放开始",
+  "refreshing": "刷新中...",
+  "succeeded": "成功了",
+  "noMore": "没有更多",
+  "failed": "失败了",
+  "lastUpdatedAt": "最后更新于 %T",
+  "pullToLoad": "上拉加载",
+  "loading": "加载中...",
+  "style": "{section, select, material {material} materialHc {materialHc} blue {blue} indigo {indigo} hippieBlue {hippieBlue} aquaBlue {aquaBlue} brandBlue {brandBlue} deepBlue {deepBlue} sakura {sakura} mandyRed {mandyRed} red {red} redWine {redWine} purpleBrown {purpleBrown} green {green} money {money} jungle {jungle} greyLaw {greyLaw} wasabi {wasabi} gold {gold} mango {mango} amber {amber} vesuviusBurn {vesuviusBurn} deepPurple {deepPurple} ebonyClay {ebonyClay} barossa {barossa} shark {shark} bigStone {bigStone} damask {damask} bahamaBlue {bahamaBlue} mallardGreen {mallardGreen} espresso {espresso} outerSpace {outerSpace} blueWhale {blueWhale} sanJuanBlue {sanJuanBlue} rosewood {rosewood} blumineBlue {blumineBlue} flutterDash {flutterDash} materialBaseline {materialBaseline} verdunHemlock {verdunHemlock} dellGenoa {dellGenoa} redM3 {redM3} pinkM3 {pinkM3} purpleM3 {purpleM3} indigoM3 {indigoM3} blueM3 {blueM3} cyanM3 {cyanM3} tealM3 {tealM3} greenM3 {greenM3} limeM3 {limeM3} yellowM3 {yellowM3} orangeM3 {orangeM3} deepOrangeM3 {深橙色M3} other {Section}}",
+  "@style": {
+    "placeholders": {
+      "section": {}
+    }
+  }
+}
