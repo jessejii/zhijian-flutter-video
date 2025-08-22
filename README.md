@@ -3,7 +3,9 @@
 [English Version](README_EN.md)
 
 知见是一款基于Flutter开发的视频和文章内容应用客户端，提供横屏和竖屏视频播放、文章阅读、用户系统等功能。
+
 这是2年前写的一个flutter短视频的客户端,依赖可能比较老了如果使用新版本需要更新相关代码.
+
 服务端: [https://github.com/jessejii/flutter-video-server](https://github.com/jessejii/flutter-video-server)
 
 ## 目录
