@@ -147,7 +147,7 @@ keytool -genkey -v -keystore C:\Users\Administrator\upload-keystore.jks -storety
   <img src="z-sucai/capture/Screenshot_20230130-151814.jpg" width="200" alt="应用截图5">
 </div>
 
-## 许可证
+相关
 
-(c) 2021 - 2023 @尚真
-www.wodecun.com
+
+[https://blog.wodecun.com](https://blog.wodecun.com)
