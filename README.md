@@ -136,7 +136,7 @@ keytool -genkey -v -keystore C:\Users\Administrator\upload-keystore.jks -storety
 欢迎提交Issue和Pull Request来改进这个项目。
 
 ## 许可证
-
+apache2.0
 ## 应用截图
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
